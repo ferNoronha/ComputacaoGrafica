@@ -1,0 +1,27 @@
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.exe.config
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.exe
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.pdb
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.csprojResolveAssemblyReference.cache
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.Primitivas.resources
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.Properties.Resources.resources
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.csproj.GenerateResource.Cache
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.exe
+F:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.pdb
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.exe.config
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.exe
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.pdb
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.exe
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\bin\Debug\Primitivas.pdb
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.csprojResolveAssemblyReference.cache
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.Primitivas.resources
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.Properties.Resources.resources
+J:\Arquivos\Facul\6 TERMO\CG\Primitivas\Primitivas\obj\Debug\Primitivas.csproj.GenerateResource.Cache
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\bin\Debug\Primitivas.exe.config
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.exe
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.pdb
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\bin\Debug\Primitivas.exe
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\bin\Debug\Primitivas.pdb
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.csprojResolveAssemblyReference.cache
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.Primitivas.resources
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.Properties.Resources.resources
+C:\Users\Fernando A. Noronha\Desktop\Primitivas\Primitivas\obj\Debug\Primitivas.csproj.GenerateResource.Cache
