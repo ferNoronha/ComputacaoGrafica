@@ -1,0 +1,18 @@
+D:\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+D:\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+D:\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.csprojResolveAssemblyReference.cache
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.Form1.resources
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.Cache
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+D:\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.Form1.resources
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+C:\Users\Fernando A. Noronha\Desktop\CG\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.Cache
